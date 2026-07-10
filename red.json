@@ -1,0 +1,864 @@
+[
+  {
+    "id": 550,
+    "text": "Hermit:Solitude::Intruder:?",
+    "options": [
+      "Thief",
+      "Privacy",
+      "Burglar",
+      "Alm"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 10",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.82,
+      "11": 0.65,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 635,
+    "text": "Pig : Farrow :: Dog : ?",
+    "options": [
+      "Mare",
+      "Puppy",
+      "Bitch",
+      "Colt"
+    ],
+    "correct": 1,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.55,
+      "8": 0.34,
+      "9": 0.18,
+      "10": 0.09,
+      "11": 0.05,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1394,
+    "text": "Seema, Bharati, Priyanka, Khusboo and Lalita are 5 speakers. The number of ways in which Seema will always speak before Bharati shall be:",
+    "options": [
+      "24",
+      "4! \u00d7 2!",
+      "5!",
+      "12"
+    ],
+    "correct": 0,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.55,
+      "12": 0.34
+    }
+  },
+  {
+    "id": 1555,
+    "text": "Which set of cut pieces can be assembled to form the target shape?",
+    "options": [
+      "Set A",
+      "Set B",
+      "Set C",
+      "Set D"
+    ],
+    "correct": 3,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    },
+    "image": "30_31.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1622,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1623,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1624,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1625,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1626,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1627,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1628,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1629,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1630,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1631,
+    "text": "Follow the numbered line through the maze. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "97.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1689,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1690,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1691,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1692,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1693,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1694,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1695,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1696,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1697,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1698,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1699,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1700,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1701,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1702,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1703,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1704,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1705,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1706,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1707,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1708,
+    "text": "Follow the numbered line through the tangle. Which letter (A\u2013E) does it lead to?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 4,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "154.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1955,
+    "text": "(0.1667 \u00d7 0.8333 \u00d7 0.3333) / (0.2222 \u00d7 0.6667 \u00d7 0.1250) is approximately equal to:",
+    "options": [
+      "2.5",
+      "4.5",
+      "0.5",
+      "0.25"
+    ],
+    "correct": 0,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  }
+]
